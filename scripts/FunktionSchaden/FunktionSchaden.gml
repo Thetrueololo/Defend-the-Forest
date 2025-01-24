@@ -1,4 +1,0 @@
-function Schaden(_atk)
-{
-	
-}

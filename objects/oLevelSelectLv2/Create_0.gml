@@ -1,1 +1,0 @@
-if global.levelprog >= 2 sprite_index = sUnlockedSelectLv2
