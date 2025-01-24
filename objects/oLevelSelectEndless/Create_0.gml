@@ -1,0 +1,1 @@
+if global.levelprog >= 4 sprite_index = sUnlockedSelectEndless

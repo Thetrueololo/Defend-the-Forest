@@ -1,0 +1,4 @@
+function Schaden(_atk)
+{
+	
+}

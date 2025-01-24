@@ -1,0 +1,1 @@
+global.apples = global.apples + 1

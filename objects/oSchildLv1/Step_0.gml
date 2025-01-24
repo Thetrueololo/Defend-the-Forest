@@ -1,0 +1,1 @@
+image_index = global.tutorialfortschritt //Aktualisiert den gezeigten Text
